@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+
+    h2 {
+      font-size: 24px;
+    }
+
+    .testimonial {
+      background-color: #ffffff;
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 15px;
+      max-width: 800px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+    }
+
+    .author {
+      text-align: right;
+      font-style: italic;
+      font-weight: bold;
+    }
